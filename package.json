@@ -1,0 +1,12 @@
+{
+  "name": "04_NodeJS--Watermark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:PaulinaSzeszel/NodeJS--Watermark.git",
+  "author": "Paulina Szeszel <paulina_szeszel@o2.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
